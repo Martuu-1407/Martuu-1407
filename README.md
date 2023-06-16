@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Martuu-1407
+- 👀 I am interested in learning programming and getting a job in that
+- 🌱 I’m currently learning Python, HTML5, CSS3 & JavaScript
